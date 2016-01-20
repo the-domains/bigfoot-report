@@ -2,6 +2,7 @@ name: Bigfoot Report
 favicon: null
 layout_spectrum: 0.827394740190357
 typography_spectrum: 0.005071916850283742
+title: The Bigfoot Report
 cta:
   domain: null
   bucket: null
