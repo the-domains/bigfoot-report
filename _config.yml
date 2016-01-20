@@ -1,0 +1,28 @@
+name: Bigfoot Report
+favicon: null
+layout_spectrum: 0.827394740190357
+typography_spectrum: 0.005071916850283742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8002193055581301
+  lightness: 0.36070270114578307
+  saturation: 0.3401785751339048
+  rhythmicContrast: 0.9207225018180907
+purpose: []
